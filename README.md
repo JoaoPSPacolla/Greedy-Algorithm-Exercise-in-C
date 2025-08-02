@@ -1,0 +1,1 @@
+# Greedy-Algorithm-Exercise-in-C
